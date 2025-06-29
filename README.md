@@ -8,10 +8,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Full-stack Web Developer 
+- 🏢 I'm a Software Engineer and MERN-stack Web Developer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 👨‍💻 I am a graduate of the Institute of Information Technology"ITi",Track (Front-end and Cross-Platform Mobile Developer)
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
