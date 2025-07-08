@@ -30,24 +30,48 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+## 💻 Frontend Development
+
 [![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)](https://getbootstrap.com/)
+[![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui&logoColor=007FFF)](https://mui.com/)
 [![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)](https://reactnative.dev/)
+[![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)](https://flutter.dev/)
+
+---
+
+## 🧠 Backend Development
+
 [![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)](https://www.mongodb.com/)
-[![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)](https://flutter.dev/)
-[![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)](https://www.postman.com/)
 [![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)](https://redux.js.org/)
-[![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)](https://www.figma.com/)
+
+---
+
+## 🗄️ Databases
+
+[![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
+[![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite&logoColor=003B57)](https://www.w3schools.com/sql/)
+
+---
+
+## 🧰 Tools & Platforms
+
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)](https://www.postman.com/)
 
+---
+
+## 🎨 UI/UX & Design
+
+[![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)](https://www.figma.com/)
 
 
 
